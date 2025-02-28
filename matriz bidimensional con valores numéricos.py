@@ -16,7 +16,6 @@ matriz = [
   [1, 8, 5],
   [6, 3, 4]
 ]
-
 fila_a_ordenar = 0
 
 print("Matriz original:")
